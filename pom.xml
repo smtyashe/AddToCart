@@ -10,7 +10,6 @@
 
 
  <dependencies>
-
      <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
      <dependency>
          <groupId>org.seleniumhq.selenium</groupId>
@@ -30,6 +29,25 @@
          <groupId>org.seleniumhq.webdriver</groupId>
          <artifactId>webdriver-selenium</artifactId>
          <version>0.9.7376</version>
+     </dependency>
+
+     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-support -->
+     <dependency>
+         <groupId>org.seleniumhq.selenium</groupId>
+         <artifactId>selenium-support</artifactId>
+         <version>4.8.0</version>
+     </dependency>
+
+     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
+     <dependency>
+         <groupId>org.seleniumhq.selenium</groupId>
+         <artifactId>selenium-chrome-driver</artifactId>
+         <version>4.8.0</version>
+     </dependency>
+     <dependency>
+         <groupId>org.seleniumhq.selenium</groupId>
+         <artifactId>selenium-api</artifactId>
+         <version>4.8.0</version>
      </dependency>
 
 
